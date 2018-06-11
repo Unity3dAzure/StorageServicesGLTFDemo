@@ -31,7 +31,7 @@ Assets/*.pfx
 
 # Unity3D generated meta files in directories
 *.pidb.meta
-*.meta
+/Dependencies/*.meta
 
 # Save all .meta files in Assets folder and sub directories
 #!Assets/**/*.meta
